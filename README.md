@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  delano Silva
 - 👀 I’m interested in Trabalhar com java
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate a comunidade
+- 🌱 I’m currently l  estudando JAVA , SPRING E GITHUB.
+- 💞️ I’m looking to collaborate a comunidad
 - 📫 How to reach me delosgs@gmail.com 71-99139-7684

@@ -3,9 +3,11 @@
 
 - 👨🏼‍💻 Sou Analyst QA, Data Engineer, Back end java and python developer.. <br>
 - 🎯 Formado em Engenharia de Controle e Automação. <br>
-- ⚡Tenho conhecimento e habilidades nas IDEs: Visual code, Eclipse e Intellij. <br>
+- ⚡Tenho conhecimento e habilidades:
+Nas IDEs Visual code, Eclipse e Intellij. <br>
 Conhecimento prático na criação de APIs com Spring boot na linguagem java e versionamento Git. <br>
-Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Big Data. Conhecimento em banco de dados relacional e não relacional. <br>
+Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Big Data. <br>
+Conhecimento em banco de dados relacional e não relacional. <br>
 Conhecimento em desenvolvimento beck end na linguagem Python para dados. <br>
 Conhecimento e habilidades na área de QA, criando e executando casos de testes dos mais variados tipos que exitem no mercado atual <br>
 - 📚 Iniciei esta jornada em Abril/2021. <br>

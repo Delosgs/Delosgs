@@ -4,12 +4,12 @@
 - 👨🏼‍💻 Sou Analyst QA, Data Engineer, Back end java and python developer.. <br>
 - 🎯 Formado em Engenharia de Controle e Automação. <br>
 - ⚡Tenho conhecimento e habilidades nas IDEs: Visual code, Eclipse e Intellij. <br>
--Conhecimento prático na criação de APIs com Spring boot na linguagem java e versionamento Git. <br>
-Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Big Data. Tendo pratica a criação e funcionamento de um cluster Hadoop para Big Data em Docker; Sqoop para ingestão de dados; Processamento em batch com Spark; Armazenamento de dados com HBase e HDFS; Otimização de consultas em grandes volumes de dados estruturados e semiestruturados com uso de Spark e Hive. Conhecimento em banco de dados relacional e não relacional. <br>
--Conhecimento em desenvolvimento na linguagem Python para dados. <br>
--Conhecimento e habilidades na área de QA com: Execução e criação de casos de testes, testes unitários e integração, testes teste de caixa preta e branca, Conhecimento em Ruby, Capybara e Cucumber.! <br>
+Conhecimento prático na criação de APIs com Spring boot na linguagem java e versionamento Git. <br>
+Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Big Data. Conhecimento em banco de dados relacional e não relacional. <br>
+Conhecimento em desenvolvimento beck end na linguagem Python para dados. <br>
+Conhecimento e habilidades na área de QA, criando e executando casos de testes dos mais variados tipos que exitem no mercado atual <br>
 - 📚 Iniciei esta jornada em Abril/2021. <br>
-- 🎺 Hobbies: Ler, caminhar, escutar musica.<br>
+- 🎺 Hobbies: Ler, natação, futebol, caminhar e escutar musica.<br>
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/delano-silva-2bb70555/)
@@ -23,7 +23,7 @@ Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Bi
 
 
 ### Soft Skills:
-Como profissional, Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Big Data. Tendo pratica a criação e funcionamento de um cluster Hadoop para Big Data em Docker; Sqoop para ingestão de dados; Processamento em batch com Spark; Armazenamento de dados com HBase e HDFS; Otimização de consultas em grandes volumes de dados estruturados e semiestruturados com uso de Spark e Hive. Conhecimento em banco de dados relacional e não relacional..<br>
+Como profissional, tenho experiencia como Engenheiro de dados, Analista de QA e Desenvolvedor beck end JAVA e PYTHON.<br>
 
 <div>
 <a href="https://github.com/Delosgs">

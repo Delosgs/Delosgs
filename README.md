@@ -20,9 +20,9 @@ Conhecimento e habilidades na área de QA, criando e executando casos de testes 
 <a href="mailto:delanosilva_182@hotmail.com?subject=Hello Mr. Delano Silva" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 <a href="mailto:delosgs@gmail.com?subject=Hello Mr. Delano Silva" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-### Hard Skills:
+### Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-<img align="center" alt="Java" height="30" width="40" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
+<img align="center" alt="Ruby" height="30" width="40" src="https://camo.githubusercontent.com/9c7ab47ce3086c2a1308bb0e404d7797aed06235c8da89339160c1754dddbdda/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f727562792f727562792d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="max-width: 100%;">
 
 
 ### Soft Skills:

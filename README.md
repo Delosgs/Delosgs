@@ -28,7 +28,7 @@ Conhecimento e habilidades na área de QA, criando e executando casos de testes 
 
 
 ### Soft Skills:
-Como profissional, tenho experiencia como Engenheiro de dados, Analista de QA e Desenvolvedor beck end JAVA e PYTHON.<br>
+Como profissional, tenho experiencia na área de dados, Analista de QA e Desenvolvedor beck end JAVA e PYTHON.<br>
 
 <div>
 <a href="https://github.com/Delosgs">

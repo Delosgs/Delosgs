@@ -27,7 +27,7 @@ Conhecimento e habilidades na área de QA, criando e executando casos de testes 
 <img align="center" alt="Ruby" height="30" width="40" src="https://camo.githubusercontent.com/9c7ab47ce3086c2a1308bb0e404d7797aed06235c8da89339160c1754dddbdda/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f727562792f727562792d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="max-width: 100%;"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-### Soft Skills:
+## Soft Skills:
 Como profissional, tenho experiencia na área de dados, QA e Desenvolvimento beck end JAVA e PYTHON.<br>
 
 <div>

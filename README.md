@@ -9,8 +9,8 @@ Conhecimento prático na criação de APIs com Spring boot na linguagem java e v
 Sou engenheiro de dados com conhecimento das ferramentas atuais no mercado de Big Data. <br>
 Conhecimento em banco de dados relacional e não relacional. <br>
 Conhecimento em desenvolvimento beck end na linguagem Python e JAVA. <br>
-Conhecimento e habilidades na área de QA, criando e executando casos de testes dos mais variados tipos que exitem no mercado atual. <br>
-- 📚 Iniciei esta jornada em Abril/2020. <br>
+Conhecimento e habilidades na área de QA, qualidade de software. <br>
+- 📚 Iniciei esta jornada em Abril/2018. <br>
 - 🎺 Hobbies: Ler, natação, futebol, caminhar e escutar musica.<br>
 
 ### Contato:

@@ -1,7 +1,7 @@
 
 ## Olá, eu sou Delano Silva!  
 
-- 👨🏼‍💻 Sou Analyst QA, Data Engineer, Back end java and python developer.. <br>
+- 👨🏼‍💻 Sou Software QA Engineer, Data Engineer, Back end java and python developer.. <br>
 - 🎯 Formado em Engenharia de Controle e Automação. <br>
 - 🎺 Hobbies: Ler, natação, futebol, caminhar e escutar musica.<br>
 

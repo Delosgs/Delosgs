@@ -18,6 +18,7 @@
 
 <img align="center" alt="Ruby" height="30" width="40" src="https://camo.githubusercontent.com/9c7ab47ce3086c2a1308bb0e404d7797aed06235c8da89339160c1754dddbdda/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f727562792f727562792d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="max-width: 100%;"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="aws" height="40" width="40" src="https://camo.githubusercontent.com/7980d92a78323b7a7aa81abad427a74d158ea3a8a75d46f7eca1f88329e775c0/68747470733a2f2f64312e6177737374617469632e636f6d2f6c6f676f732f6177732d6c6f676f2d6c6f636b7570732f706f776572656462796177732f50425f4157535f6c6f676f5f5247425f737461636b65645f5245565f53512e393163643461663430373733636266626431353537376133633262386133343666653365386661322e706e67" data-canonical-src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e8fa2.png" style="max-width: 100%;">
 
 
 
@@ -30,6 +31,6 @@ Como profissional, tenho experiencia na área de dados, QA e Desenvolvimento bec
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delosgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a>
+ 
   
   

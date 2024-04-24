@@ -1,9 +1,9 @@
 
 ## Olá, eu sou Delano Silva!  
 
-- 👨🏼‍💻 Atualmente sou Software QA Engineer, atuando com automação usando as linguagens Java e Python. <br>
+- 👨🏼‍💻 Atualmente sou Software QA Engineer, atuando com automação usando as linguagens Java, Python e os frameworks Playwrite e Robot. <br>
 - 🎯 Formado em Engenharia de Controle e Automação. <br>
-- 🎺 Hobbies: Ler, natação, futebol, caminhar e escutar musica.<br>
+- 🎺 Hobbies: Ler, natação, caminhar e escutar musica.<br>
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/delano-silva-2bb70555/)

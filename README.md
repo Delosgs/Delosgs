@@ -1,7 +1,7 @@
 
 ## Olá, eu sou Delano Silva!  
 
-- 👨🏼‍💻 Atualmente sou Software QA Engineer, atuando com automação usando as linguagens Java, Python e os frameworks Playwrite e Robot. <br>
+- 👨🏼‍💻 Atualmente sou software QA Engineer, atuando com testes manuais e automatizados, usando as linguagens Java, Python e os frameworks Playwrite e Robot. Possuo experiência em projetos para WEB, Mobile e API. <br>
 - 🎯 Formado em Engenharia de Controle e Automação. <br>
 - 🎺 Hobbies: Ler, natação, caminhar e escutar musica.<br>
 
